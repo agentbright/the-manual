@@ -11,7 +11,7 @@ For specifics, see the list below:
 * [Styling](/workflow/styling)
 * [Best Practices](/workflow/best-practices)
 * [Testing](/workflow/testing)
-* [Testing](/workflow/environments)
+* [Environments](/workflow/environments)
 
 
 We use a version of the Github Flow pattern:
