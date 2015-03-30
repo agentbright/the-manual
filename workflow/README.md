@@ -124,15 +124,15 @@ Code review checks the following:
 * Does the code meet our style and best practices standards?
 * Are there dependency, upstream or scaling concerns?
 
-Code review can be touchy. Two things to remember:
+Things to remember:
 
-1. Anyone who creates something and puts it in front of another is
-   being vulnerable. As a reviewer, be critical, but be fair, civil,
-   and do not be overly stingy with praise.
-2. As the author, anyone who looks at your code and gives you feedback
-   is giving you the opportunity to improve your craft. Questioning perfect
-   code still gives you the chance to improve your ability to articulate your
-   choices and your reasoning. Embrace the process.
+* As a reviewer, be critical, but be fair, civil, and do not be overly stingy
+  with praise.
+* As the author, appreciate that anyone who reviews your code is giving you
+  the opportunity to improve your craft.
+* Defending perfect code is still an opportunity to improve how well you
+  articulate your choices and your reasoning.
+* Seize the chances you get to learn, and to teach.
    
 Merging
 -------
