@@ -14,7 +14,7 @@ For specifics, see the list below:
 * [Environments](/workflow/environments)
 
 
-We use a version of the Github Flow pattern:
+**For development, we use a version of the Github Flow pattern:**
 
 1. For each issue/feature, create feature branch
 2. Write code and commit
