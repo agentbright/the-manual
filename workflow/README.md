@@ -57,6 +57,8 @@ of the issue you are working on.
 * Use specificity of language and describe include the purpose or
   reasoning behind your code if it is not obvious.
 
+Resource: [5 Tips for Writing a Better Commit Message](https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message)
+
 Rebasing
 --------
 
